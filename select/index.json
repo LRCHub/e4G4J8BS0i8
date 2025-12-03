@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "DOSHABURI",
+  "base_artist": "kZm",
+  "createdAt": "2025-12-03T00:35:10.147530Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doshaburi",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/01_Doshaburi_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Doshaburi Jonathan",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": false,
+      "path": "select/02_Doshaburi_Jonathan_Kazuyoshi_Saito.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Doshaburi no Shousha",
+      "artist": "ムック",
+      "has_synced": true,
+      "path": "select/03_Doshaburi_no_Shousha_ムック.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DOSHABURI (feat. JUMADIBA)",
+      "artist": "kZm",
+      "has_synced": true,
+      "path": "select/04_DOSHABURI_(feat._JUMADIBA)_kZm.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doshaburi (Original Karaoke)",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/05_Doshaburi_(Original_Karaoke)_Ken_Hirai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOSHABURI",
+      "artist": "kZm, JUMADIBA",
+      "has_synced": false,
+      "path": "select/pl_01_DOSHABURI_kZm,_JUMADIBA.txt"
+    }
+  ]
+}
